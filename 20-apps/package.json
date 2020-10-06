@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "react-markdown": "^4.3.1"
+  }
+}
